@@ -3,6 +3,6 @@
     "reporter": ["mochawesome"],
     "reporter-options" : [
         "reportDir=reports",
-        "reportFile=index"
+        "reportFilename=index"
     ]
 }
